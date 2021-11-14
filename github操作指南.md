@@ -57,7 +57,7 @@ Linus Torvalds，全球著名的电脑程序员、黑客，Linux 之父。
 
 2.2 John Resig
 
-![img](https://pic2.zhimg.com/v2-a48e32faae5a5d64765a6531f3b58541_b.jpg)
+![img](v2-a48e32faae5a5d64765a6531f3b58541_b.jpg)
 
 Github主页： [jeresig - Overview](https://link.zhihu.com/?target=https%3A//github.com/jeresig)
 
